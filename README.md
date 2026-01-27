@@ -38,13 +38,13 @@ Time to connect your screen to your board. Just follow this simple chart. Make s
 | Screen Pin | ESP32-S3 Pin |
 | :--------- | :----------- |
 | CS         | GPIO 10      |
-| RST        | GPIO 11      |
-| DC         | GPIO 9       |
-| MOSI       | GPIO 12      |
-| SCLK       | GPIO 13      |
+| RST/RESET  | GPIO 11      |
+| DC/A0      | GPIO 9       |
+| SDA        | GPIO 12      |
+| SCK/SCL    | GPIO 13      |
 | VCC        | 3.3V         |
 | GND        | GND          |
-| LED        | 3.3V         |
+| LED/BL     | 3.3V         |
 
 > **Random Chutkula Time!** 😂
 >
